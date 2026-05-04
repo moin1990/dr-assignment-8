@@ -45,7 +45,7 @@ export default function Footer() {
             </p>
             {/* Social links */}
             <div className="flex gap-3 mt-5">
-              {["Instagram", "Pinterest", "Houzz"].map((social) => (
+              {["Instagram", "Pinterest", "Facebook"].map((social) => (
                 <a
                   key={social}
                   href="#"
